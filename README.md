@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyzes student academic performance, attendance, and behavior across classes, sections, subjects, and terms.
 
-> Practical exam project | Total marks: 50 | Tool: Power BI Desktop
+> Tool: Power BI Desktop
 
 ---
 
